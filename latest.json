@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.3.0",
-  "manifest": "manifests/1.3.0.json",
-  "notes": "\u2022 Sets from a folder works every time (a second run made no sets) and can replace the previous result.\n\u2022 Choose how many sets to make: Auto, fewer (an even spread) or more (new combinations, no repeats in a set).\n\u2022 Collages slider: how many screens become collages; optional random collage layouts.\n\u2022 In-app updates: a button appears when a new version is ready; only changed files are downloaded."
+  "version": "1.4.0",
+  "manifest": "manifests/1.4.0.json",
+  "notes": "\u2022 Photo Library (Cullect / Curish), read-only: \"Sets from a folder\" has a second source, Library album (albums shown on the wall first, Favourites always there). Focus, colour and date come from the .pnfo.\n\u2022 Curish edits replace their originals; offline and discarded photos are skipped; follows Library changes.\n\u2022 Library photo... (Ctrl+L): one photo from an album for one screen, cropped around its point of interest."
  }
 }
