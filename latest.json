@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.5.1",
-  "manifest": "manifests/1.5.1.json",
-  "notes": "\u2022 Shuffle (Scatter): new random tilts and positions with one click.\n\u2022 New collages start on a blue background (Windows blue); change it with the colour chip.\n\u2022 Scatter is the only framed style now (Even is gone); photos start leaning different ways and overlap more.\n\u2022 Only one Wallpaper Studio window at a time, so two copies can no longer overwrite each other's changes."
+  "version": "1.5.2",
+  "manifest": "manifests/1.5.2.json",
+  "notes": "\u2022 Slideshow: sets listed by group (collapsed; tick a whole group or single sets). All sets are in by default, new ones too.\n\u2022 Slideshow reuses unchanged exports (marked \u2713) and only renders new or changed sets.\n\u2022 Shorter, simpler slideshow window."
  }
 }
