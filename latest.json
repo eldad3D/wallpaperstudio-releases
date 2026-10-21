@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.4.0",
-  "manifest": "manifests/1.4.0.json",
-  "notes": "\u2022 Photo Library (Cullect / Curish), read-only: \"Sets from a folder\" has a second source, Library album (albums shown on the wall first, Favourites always there). Focus, colour and date come from the .pnfo.\n\u2022 Curish edits replace their originals; offline and discarded photos are skipped; follows Library changes.\n\u2022 Library photo... (Ctrl+L): one photo from an album for one screen, cropped around its point of interest."
+  "version": "1.5.0",
+  "manifest": "manifests/1.5.0.json",
+  "notes": "\u2022 Library albums: membership is read from each photo's .pnfo (not only the index), so a freshly pushed album no longer shows 0 photos.\n\u2022 A photo put in an album on purpose is shown even if it was marked discard (discards outside albums stay hidden).\n\u2022 Library changes (library.json, albums.json or any .pnfo) are picked up within ~2 s while a Library dialog is open.\n\u2022 Set groups: file sets under collapsible groups (right-click \u2192 Move to group, or drag sets onto a group). Click a group to fold it; Collapse / Expand all in the menu. Existing sets stay as they were (no group).\n\u2022 Collages start with no gap. New collage styles: Even (spaced out) and Scatter (overlapping towards the middle), both with a white border around each photo.\n\u2022 Scatter tiles by hand: drag inside to move, near the edge to turn (Shift: 15\u00b0 steps), a corner to resize. Alt+drag pans the photo inside. \"Reset tiles\" puts them back.\n\u2022 New layout: 4 x 3 grid (12 photos). Picking a layout always starts Tiled."
  }
 }
