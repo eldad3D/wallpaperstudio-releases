@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.8.0",
-  "manifest": "manifests/1.8.0.json",
-  "notes": "\u2022 One Publish... button (bottom right) replaces Export / Set as wallpaper / Slideshow / Virtual desktops.\n\u2022 Publish: per desktop choose Colour, Wallpaper (a set) or Slideshow (sets + interval), tick which desktops to update, then Publish. Unticked desktops keep what they have, slideshows included.\n\u2022 Without virtual desktops, Publish sets the wallpaper or starts the Windows slideshow.\n\u2022 Export images, Set as wallpaper and the Windows slideshow are still in the \u2630 menu (Ctrl+E, Ctrl+P = Publish)."
+  "version": "1.8.1",
+  "manifest": "manifests/1.8.1.json",
+  "notes": "\u2022 Slideshow picker: sets grouped by folder (tick a whole folder), plus Select all / Clear.\n\u2022 US spelling: \"color\" everywhere."
  }
 }
