@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.7.0",
-  "manifest": "manifests/1.7.0.json",
-  "notes": "\u2022 Virtual desktops... button in the bottom-right, next to Slideshow.\n\u2022 Slideshow per virtual desktop: pick *Slideshow\u2026* in a desktop's row, tick the sets and the interval. Each desktop rotates on its own (a small per-user scheduled task, no app running, no admin rights). It is removed when no desktop uses a slideshow."
+  "version": "1.8.0",
+  "manifest": "manifests/1.8.0.json",
+  "notes": "\u2022 One Publish... button (bottom right) replaces Export / Set as wallpaper / Slideshow / Virtual desktops.\n\u2022 Publish: per desktop choose Colour, Wallpaper (a set) or Slideshow (sets + interval), tick which desktops to update, then Publish. Unticked desktops keep what they have, slideshows included.\n\u2022 Without virtual desktops, Publish sets the wallpaper or starts the Windows slideshow.\n\u2022 Export images, Set as wallpaper and the Windows slideshow are still in the \u2630 menu (Ctrl+E, Ctrl+P = Publish)."
  }
 }
