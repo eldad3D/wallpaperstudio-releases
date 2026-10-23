@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "1.6.0",
-  "manifest": "manifests/1.6.0.json",
-  "notes": "\u2022 Virtual desktops (\u2630 menu): each desktop gets its own background, set automatically: a colour, a gradient (direction + second colour) or a set. Defaults: Work blue, School orange, Houdini/Unreal grey, Photography brown-to-sky gradient.\n\u2022 Optional title and/or transparent logo per desktop, bottom-left above the taskbar, on the main or all screens.\n\u2022 One Wallpaper Studio theme is saved and kept current after Set as wallpaper, Slideshow and desktops.\n\u2022 *Set as wallpaper* now really stops a running slideshow, with a shorter confirm.\n\u2022 Fill empty from Library: every empty screen / collage cell gets an album photo (best shape fit, no repeats).\n\u2022 Colour swatches open presets (Work blue, School orange, grey, Nature gradient) and + for any colour (Windows colour picker). Collage backgrounds can be a gradient: one arrow button turns the direction, a small slider leans the blend towards either colour.\n\u2022 Title or logo per set (off by default): text, or a PNG / JPG / SVG logo (transparency kept), bottom-left above the taskbar on the main or all screens, with a dark box or a drop shadow. Each copy moves, resizes and goes on its own (drag, corner, \u00d7 or Del). Exported on top.\n\u2022 Shorter hints and explanations throughout."
+  "version": "1.7.0",
+  "manifest": "manifests/1.7.0.json",
+  "notes": "\u2022 Virtual desktops... button in the bottom-right, next to Slideshow.\n\u2022 Slideshow per virtual desktop: pick *Slideshow\u2026* in a desktop's row, tick the sets and the interval. Each desktop rotates on its own (a small per-user scheduled task, no app running, no admin rights). It is removed when no desktop uses a slideshow."
  }
 }
